@@ -1,22 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b5b8&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pablo+Aurelio+Melo+Almeida;Eu+tenho+22+anos;E+moro+no+Brazil;Curso+Engenharia+de+Softwere+na+UNIFIL;Sejá+Bem+Vindo!+:%20)](https://git.io/typing-svg)
-<div align="center">
-  <h2 align="centre"><b>status</h2> 
-    <h3></h3> 
-</div>
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5b8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pablo+Aurelio+Melo+Almeida;Eu+tenho+22+anos;E+moro+no+Brazil;Curso+Engenharia+de+Softwere+na+UNIFIL;Sejá+Bem+Vindo!+:%20)](https://git.io/typing-svg)
+ 
 - 🔭 Atualmente trabalho como DEV Ruby
 - 🌱 Estudando Rails, Bootstrap4, Python
-- 😄 Pronouns: ele/Eles ...
-- ⚡ Fun fac: Nunca vamos parar de aprender/estudar algo novo, não desiluda as crianças...
-  
+- ⚡ Nunca vamos parar de aprender/estudar algo novo, não desiluda as crianças...
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PablUoo&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=00CED1&text_color=c9d1d9&bg_color=0d1117" alt="Pablo Almeida github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablUoo&layout=compact&hide_border=true&title_color=EBEBEB&text_color=EBEBEB&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablUoo&layout=compact&hide_border=true&title_color=00CED1&text_color=00CED1&bg_color=0d1117" />
 </div>
 
 
@@ -50,6 +42,6 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b5b8&height=120&section=footer"/>
 
 
