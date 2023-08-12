@@ -88,7 +88,7 @@
 <h1></h1> 
 </br>
 
-<!-- Floter -->
+<!-- Footer -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PablUoo&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -107,6 +107,6 @@
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=15&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+PABLO" alt="build with love svg" />
 </div>
 
-<!-- FIM Floter -->
+<!-- FIM Footer -->
 
 
