@@ -13,6 +13,11 @@
 - 🌱 Estudando Rails, Bootstrap4, Python
 - 😄 Pronouns: ele/Eles ...
 - ⚡ Fun fac: Nunca vamos parar de aprender/estudar algo novo, não desiluda as crianças...
+  
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PablUoo&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=00CED1&text_color=c9d1d9&bg_color=0d1117" alt="Pablo Almeida github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablUoo&layout=compact&hide_border=true&title_color=EBEBEB&text_color=EBEBEB&bg_color=0d1117" />
+</div>
 
 
 
@@ -34,7 +39,7 @@
     <a href="https://www.linkedin.com/in/pablo-aurelio-melo-almeida-b7ab18213" target="_red"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="" target="_blak_"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_black"></a>
   </div>
-<h1></h1>
+<h3></h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PablUoo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
