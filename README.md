@@ -1,12 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b5b8&height=120&section=header"/>
 
+<div align="center">
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=00CED1&center=true&vCenter=true&repeat=false&width=395&height=29&lines=OLÁ%2C+SEJA+BEM+VINDO" alt="Olá seja bem vindo svg" />
+</div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5b8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pablo+Aurelio+Melo+Almeida;Eu+tenho+22+anos;E+moro+no+Brazil;Curso+Engenharia+de+Softwere+na+UNIFIL%20)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5b8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pablo+Aurelio+Melo+Almeida;Eu+tenho+22+anos;E+moro+no+Brazil;Curso+Engenharia+de+Softwere+na+UNIFIL;Sejá+Bem+Vindo!+:%20)](https://git.io/typing-svg)
- 
-- 🔭 Atualmente trabalho como DEV Ruby
-- 🌱 Estudando Rails, Bootstrap4, Python
-- ⚡ Nunca vamos parar de aprender/estudar algo novo, não desiluda as crianças...
+ <div align="center"> 
+  <p>🔭 Atualmente trabalho como DEV Ruby</p> 
+  <p>🌱 Estudando Rails, Bootstrap4, Python</p>
+  <p>⚡ Nunca vamos parar de aprender/estudar algo novo, não desiluda as crianças...</p>
+ </div>
+<div align="center">
+  <img loading="lazy" style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 15px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 15px" alt="firebase badge" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5">
+</div>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PablUoo&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=00CED1&text_color=c9d1d9&bg_color=0d1117" alt="Pablo Almeida github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablUoo&layout=compact&hide_border=true&title_color=00CED1&text_color=00CED1&bg_color=0d1117" />
@@ -44,14 +55,7 @@
 <p align="center"><img align="center" collor=8B0000 src="https://profile-counter.glitch.me/{PablUoo}/count.svg" /></p> 
 <br>
 </div>
-<div align="center">
-  <img loading="lazy" style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 15px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 15px" alt="firebase badge" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5">
-</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b5b8&height=120&section=footer"/>
 
 
