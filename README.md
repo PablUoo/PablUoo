@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b5b8&height=120&section=header"/>
 
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5b8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pablo+Aurelio+Melo+Almeida;Eu+tenho+22+anos;E+moro+no+Brazil;Curso+Engenharia+de+Softwere+na+UNIFIL;Sejá+Bem+Vindo!+:%20)](https://git.io/typing-svg)
  
 - 🔭 Atualmente trabalho como DEV Ruby
@@ -23,6 +24,7 @@
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
 <h1></h1> 
 <div align="center"> 
     <a href="https://www.instagram.com/pabluo__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -32,6 +34,7 @@
     <a href="" target="_blak_"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_black"></a>
   </div>
 <h3></h3>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PablUoo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -41,7 +44,14 @@
 <p align="center"><img align="center" collor=8B0000 src="https://profile-counter.glitch.me/{PablUoo}/count.svg" /></p> 
 <br>
 </div>
-
+<div align="center">
+  <img loading="lazy" style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 15px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 15px" alt="firebase badge" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5">
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00b5b8&height=120&section=footer"/>
 
 
