@@ -27,7 +27,7 @@
 
  <div align="center"> 
   <p>🔭 Atualmente trabalho como DEV</p> 
-  <p>🌱 Estudando Rails, Bootstrap4, Python</p>
+  <p>🌱 Estudando Ruby on Rails, Bootstrap4, Python</p>
   <p>⚡ Nunca vamos parar de aprender/estudar algo novo, não desiluda as crianças...</p>
  </div>
 <br/>
