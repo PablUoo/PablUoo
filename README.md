@@ -17,7 +17,7 @@
 
 <!--Bem Vindo Bio -->
 <div align="center">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=00CED1&center=true&vCenter=true&repeat=false&width=395&height=29&lines=OLÁ%2C+SEJA+BEM+VINDO" alt="Olá seja bem vindo svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=00CED1&center=true&vCenter=true&repeat=false&width=395&height=29&lines=OLÁ%2C+SEJA+BEM+VINDO" alt="Olá seja bem vindo" />
 </div>
 <br/>
 
@@ -101,7 +101,7 @@ Fim Linguagens -->
 
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" collor=8B0000 src="https://profile-counter.glitch.me/{PablUoo}/count.svg" /></p> 
+<p align="center"><img src="https://img.shields.io/badge/Visitantes-12345-brightgreen" alt="Visitantes"></p> 
 <br>
 </div>
 
