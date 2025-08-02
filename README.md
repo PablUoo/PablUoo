@@ -86,7 +86,6 @@ Fim Linguagens -->
   <img loading="lazy" style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=1B1F23">
   <img loading="lazy" style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=2981B9">
   <img loading="lazy" style="margin-right: 15px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=1B1F23">
-  <img loading="lazy" style="margin-right: 15px" alt="firebase badge" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white&color=FFCA2A">
   <img loading="lazy" style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=5D1D04">
 </div>
  <!-- FIM Skills -->
