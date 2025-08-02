@@ -27,7 +27,7 @@
 
  <div align="center"> 
   <p>🔭 Atualmente trabalho como DEV</p> 
-  <p>🌱 Estudando Ruby on Rails, Bootstrap4, Python</p>
+  <p>🌱 Trabalho com Ruby on Rails, Vue e Ionic, Estudando Flutter</p>
   <p>⚡ Nunca vamos parar de aprender/estudar algo novo, não desiluda as crianças...</p>
  </div>
 <br/>
