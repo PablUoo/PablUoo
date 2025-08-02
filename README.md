@@ -101,7 +101,7 @@ Fim Linguagens -->
 
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img src="https://img.shields.io/badge/Visitantes-12345-brightgreen" alt="Visitantes"></p> 
+
 <br>
 </div>
 
