@@ -47,13 +47,13 @@
 <!-- my github stats text end -->
 
 
-<!-- Linguagens -->
+<!-- Linguagens
 <div align="center">
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PablUoo&layout=compact&hide_border=true&title_color=0D1117&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 </br>
 </br>
-<!-- Fim Linguagens -->
+Fim Linguagens -->
 
 <!-- Skills -->
 <div align="center"> 
