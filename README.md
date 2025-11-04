@@ -27,7 +27,7 @@
 
  <div align="center"> 
   <p>🔭 Atualmente trabalho como DEV</p> 
-  <p>🌱 Trabalho com Ruby on Rails, Vue e Ionic, Estudando Flutter</p>
+  <p>🌱 Trabalho com Ruby on Rails, Vue e Ionic, Nest, Estudando Flutter</p>
   <p>⚡ Nunca vamos parar de aprender/estudar algo novo, não desiluda as crianças...</p>
  </div>
 <br/>
@@ -75,6 +75,7 @@ Fim Linguagens -->
   <img align="center" alt="Pablo-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Pablo-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Pablo-AngularJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Pablo-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
 </div>
 </br>
 
