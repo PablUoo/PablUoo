@@ -19,11 +19,16 @@
   <p>🌟 Focado em construir soluções robustas e escaláveis</p>
 </div>
 
-<!-- GitHub Stats Section -->
-<div align="center">
-    <img width=396 src="https://github-readme-stats.vercel.app/api?username=PablUoo&rank_icon=percentile&show_icons=true&count_private=true&theme=radical&hide_border=true&title_color=CC0000&icon_color=FF6F61" alt="GitHub Stats">
+<!-- my github stats text start -->
+<div align="center"> 
+    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=CC0000&center=true&vCenter=true&repeat=false&width=200&height=21&lines=GITHUB+STATUS" alt="my github stats svg" />
 </div>
-<br/>
+<div align="center">
+    <img loading="lazy" width=396 src="https://streak-stats.demolab.com/?user=PablUoo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=00979B&border=0D1117&ring=00CED1&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CED1&sideLabels=00CED1&excludeDaysLabel=00CED1&dates=FFFFFF" alt="current streak stats" />
+    <img loading="lazy" width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=pablUo&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=CC0000&currStreakLabel=00CED1&sideLabels=00CED1&icon_color=CC0000&bg_color=CC0000&text_color=FFFFFF&border_color=CC0000&hide_border=true&include_all_commits=true" alt="github stats" />
+</div>
+<!-- my github stats text end -->
+
 
 <!-- Skills Section -->
 <div align="center"> 
