@@ -31,7 +31,7 @@
 
 <!-- Skills Section -->
 <div align="center"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=2500&pause=1&color=CC0000&center=true&vCenter=true&repeat=false&width=400&height=30&lines=MINHAS+SKILLS+E+TECNOLOGIAS"/>
+    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=PablUoo&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="trophies" />
 </div>
 
 <div align="center">
