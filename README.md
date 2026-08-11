@@ -2,7 +2,7 @@
 
 <!-- Bio Section -->
 <div align="center">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=10000&size=18&duration=4000&pause=1&color=CC0000&center=true&vCenter=true&width=650&height=45&lines=+Bem+Vindo!+%E2%9D%A4%EF%B8%8F;OLA+EU+SOU+DESENVOLVEDOR+RUBY+ON+RAILS" alt="Bem vindo ao meu perfil!" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=10000&size=18&duration=4000&pause=1&color=CC0000&center=true&vCenter=true&width=650&height=45&lines=+Bem+Vindo!+%E2%9D%A4%EF%B8%8F;OLA+EU+SOU+DESENVOLVEDOR+RUBY+ON+RAILS" alt="" />
 </div>
 
 <!-- Redes Sociais -->
@@ -22,20 +22,20 @@
 
 <!-- GitHub Stats -->
 <div align="center"> 
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=CC0000&center=true&vCenter=true&repeat=false&width=250&height=25&lines=GITHUB+STATUS" alt="GitHub Status" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=CC0000&center=true&vCenter=true&repeat=false&width=250&height=25&lines=GITHUB+STATUS" alt="" />
 </div>
 <div align="center">
-    <img loading="lazy" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PablUoo&theme=dark&hide_border=true&background=0D1117&stroke=CC0000&ring=CC0000&fire=CC0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CC0000&sideLabels=CC0000&dates=FFFFFF" alt="streak stats" />
-    <img loading="lazy" height="165" src="https://github-readme-stats.vercel.app/api?username=PablUoo&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=FFFFFF" alt="github stats" />
+    <img loading="lazy" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PablUoo&theme=dark&hide_border=true&background=0D1117&stroke=CC0000&ring=CC0000&fire=CC0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=CC0000&sideLabels=CC0000&dates=FFFFFF" alt="" />
+    <img loading="lazy" height="165" src="https://github-readme-stats.vercel.app/api?username=PablUoo&rank_icon=percentile&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=FFFFFF" alt="" />
 </div>
 
 <!-- Skills Section -->
 <div align="center"> 
-    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=PablUoo&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="trophies" />
+    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=PablUoo&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=1&pause=1&color=CC0000&center=true&vCenter=true&repeat=false&width=250&height=25&lines=LINGUAGENS"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=1&pause=1&color=CC0000&center=true&vCenter=true&repeat=false&width=250&height=25&lines=LINGUAGENS" alt=""/>
   <p>
     <img height="40" title="Ruby" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
     <img height="40" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=1&pause=1&color=CC0000&center=true&vCenter=true&repeat=false&width=350&height=25&lines=FRAMEWORKS+%26+BIBLIOTECAS"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=1&pause=1&color=CC0000&center=true&vCenter=true&repeat=false&width=350&height=25&lines=FRAMEWORKS+%26+BIBLIOTECAS" alt=""/>
   <p>
     <img height="40" title="Ruby on Rails" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
     <img height="40" title="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -61,7 +61,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=1&pause=1&color=CC0000&center=true&vCenter=true&repeat=false&width=350&height=25&lines=BANCOS+DE+DADOS+%26+ORM"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=1&pause=1&color=CC0000&center=true&vCenter=true&repeat=false&width=350&height=25&lines=BANCOS+DE+DADOS+%26+ORM" alt=""/>
   <p>
     <img height="40" title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img height="40" title="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
@@ -71,7 +71,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=1&pause=1&color=CC0000&center=true&vCenter=true&repeat=false&width=280&height=25&lines=INFRA+%26+DEVOPS"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=1&pause=1&color=CC0000&center=true&vCenter=true&repeat=false&width=280&height=25&lines=INFRA+%26+DEVOPS" alt=""/>
   <p>
     <img height="40" title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img height="40" title="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg">
@@ -82,7 +82,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=1&pause=1&color=CC0000&center=true&vCenter=true&repeat=false&width=280&height=25&lines=FERRAMENTAS"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=1&pause=1&color=CC0000&center=true&vCenter=true&repeat=false&width=280&height=25&lines=FERRAMENTAS" alt=""/>
   <p>
     <img height="40" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img height="40" title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
@@ -99,5 +99,5 @@
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=120&section=footer"/>
 <div align="center">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=3000&size=16&duration=3000&pause=1&color=CC0000&center=true&vCenter=true&width=185&height=20&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F++Ruby;%C2%A9+BUILD+BY+PABLO" alt="build with love" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=3000&size=16&duration=3000&pause=1&color=CC0000&center=true&vCenter=true&width=185&height=20&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F++Ruby;%C2%A9+BUILD+BY+PABLO" alt="" />
 </div>
